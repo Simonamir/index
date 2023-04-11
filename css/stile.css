@@ -1,14 +1,13 @@
 body {
     font-family: sans-serif;
     background-color: aqua;
+    text-decoration: black;
 }
 
 image{
     max-width: 100%;
 }
-text{
-    color: antiquewhite;
-}
+
 header{
     max-width: 1000px;
     background-color: aliceblue;
@@ -19,8 +18,7 @@ main{
     max-width: 1000px;
     background-color: brown;
     margin: auto;
-    text-decoration-color: antiquewhite;
-    img 
+    text-decoration-color: antiquewhite; 
 }
 
 main h2.altro-titolo{
@@ -31,4 +29,5 @@ footer{
     max-width: 1200px;
     background-color: rgb(79, 79, 255);
     margin: auto;
+    text-decoration: antiquewhite;
 }
