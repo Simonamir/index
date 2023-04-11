@@ -3,9 +3,6 @@ body {
     background-color: aqua;
 }
 
-image{
-    max-width: 100%;
-}
 
 text{
     color: antiquewhite;
@@ -21,6 +18,9 @@ main{
     margin: auto;
     text-decoration-color: antiquewhite;
     img 
+}
+image{
+    max-width: 100%;
 }
 
 main h2.altro-titolo{
