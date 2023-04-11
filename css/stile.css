@@ -12,6 +12,9 @@ header{
     background-color: aliceblue;
     margin: auto;
 }
+image{
+    max-width: 100%;
+}
 main{
     max-width: 1000px;
     background-color: brown;
