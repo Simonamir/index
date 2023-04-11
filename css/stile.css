@@ -21,7 +21,9 @@ main{
     margin: auto;
     text-decoration-color: antiquewhite; 
 }
-
+card-2{
+    display: flex;
+}
 main h2.altro-titolo{
     color: beige;
 }
