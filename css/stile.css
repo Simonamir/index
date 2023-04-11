@@ -1,13 +1,11 @@
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;;
-    background-color: rgb(170, 15, 15);
+    font-family: sans-serif;
+    background-color: aqua;
 }
-img{
-    max-width: 100%;
-}
+
 header{
     max-width: 1200px;
-    background-color: aqua;
+    background-color: aliceblue;
     margin: auto;
 }
 main{
