@@ -12,6 +12,7 @@ main{
     max-width: 1000px;
     background-color: brown;
     margin: auto;
+    text-decoration-color: antiquewhite;
 }
 
 main h2.altro-titolo{
