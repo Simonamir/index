@@ -11,13 +11,13 @@ image {
 
 header{
     max-width: 1000px;
-    background-color: aliceblue;
+    background: aliceblue;
     margin: auto;
 }
 
 main{
     max-width: 1000px;
-    background-color: rgb(42, 97, 165);
+    background: rgb(42, 97, 165);
     margin: auto;
     text-decoration-color: antiquewhite; 
 }
@@ -28,7 +28,7 @@ main h2.altro-titolo{
 
 footer{
     max-width: 1200px;
-    background-color: rgb(42, 97, 255);
+    background: rgb(42, 97, 255);
     margin: auto;
     text-decoration: antiquewhite;
 }
