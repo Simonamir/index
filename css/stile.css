@@ -1,0 +1,27 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;;
+    background-color: rgb(170, 15, 15);
+}
+img{
+    max-width: 100%;
+}
+header{
+    max-width: 1200px;
+    background-color: aqua;
+    margin: auto;
+}
+main{
+    max-width: 1200px;
+    background-color: brown;
+    margin: auto;
+}
+
+main h2.altro-titolo{
+    color: beige;
+}
+
+footer{
+    max-width: 1200px;
+    background-color: blue;
+    margin: auto;
+}
