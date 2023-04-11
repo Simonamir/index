@@ -6,6 +6,10 @@ body {
 image{
     max-width: 100%;
 }
+
+text{
+    color: antiquewhite;
+}
 header{
     max-width: 1000px;
     background-color: aliceblue;
