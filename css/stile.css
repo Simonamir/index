@@ -1,5 +1,5 @@
 body {
-    background: #caa7d9; 
+    background: #a7a7d9; 
         font-family: Helvetica; 
     text-decoration: black;
 }
@@ -17,7 +17,7 @@ header{
 
 main{
     max-width: 1000px;
-    background-color: brown;
+    background-color: rgb(42, 97, 165);
     margin: auto;
     text-decoration-color: antiquewhite; 
 }
@@ -28,7 +28,7 @@ main h2.altro-titolo{
 
 footer{
     max-width: 1200px;
-    background-color: rgb(79, 79, 255);
+    background-color: rgb(42, 97, 255);
     margin: auto;
     text-decoration: antiquewhite;
 }
