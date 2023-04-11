@@ -3,7 +3,9 @@ body {
     background-color: aqua;
 }
 
-
+image{
+    max-width: 100%;
+}
 text{
     color: antiquewhite;
 }
@@ -12,18 +14,13 @@ header{
     background-color: aliceblue;
     margin: auto;
 }
-image{
-    max-width: 80%;
-}
+
 main{
     max-width: 1000px;
     background-color: brown;
     margin: auto;
     text-decoration-color: antiquewhite;
     img 
-}
-image{
-    max-width: 100%;
 }
 
 main h2.altro-titolo{
