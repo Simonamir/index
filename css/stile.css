@@ -8,6 +8,10 @@ body {
     padding-left: 50%;
     color: #9ab3f7;
 }
+#immagini{
+    float: left;
+    margin-top: 5px;
+}
 #colazionimondo {
     float: left;
     padding-left: 100px;
