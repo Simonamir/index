@@ -11,6 +11,7 @@ body {
 #immagini{
     float: left;
     margin-top: 2px;
+    background-color: #bdccf4;
 }
 #colazionimondo {
     float: left;
