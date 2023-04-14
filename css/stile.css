@@ -3,6 +3,11 @@ body {
         font-family: Helvetica; 
     text-decoration: black;
 }
+#title {
+    float: left;
+    padding-left: 100%;
+    color: #9ab3f7;
+}
 #colazionimondo {
     float: left;
     padding-left: 100px;
@@ -12,7 +17,7 @@ body {
 #italia {
     float: left;
     padding-left: 3px;
-    margin-top: 5px;
+    margin-top: 8px;
     color: #a5a5a5;
 }
 #laclassica {
