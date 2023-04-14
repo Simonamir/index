@@ -4,14 +4,16 @@ body {
     text-decoration: black;
 }
 #colazionimondo {
-    float: center;
-    padding-left: 80px;
-    margin-top: 0,5px;
+    float: left;
+    padding-left: 100px;
+    margin-top: 1px;
+    color: #a5a5a5;
 }
 #italia {
     float: left;
     padding-left: 3px;
-    margin-top: 7px;
+    margin-top: 2px;
+    color: #a5a5a5;
 }
 image {
     max-width: 100%;
