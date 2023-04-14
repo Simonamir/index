@@ -4,7 +4,10 @@ body {
     text-decoration: black;
 }
 #colazionimondo {
+    float: left;
     padding-left: 60px;
+    padding-top: 0,8%;
+    margin-top: 7px;
 }
 image {
     max-width: 100%;
