@@ -31,6 +31,10 @@ body {
     margin-top: 10px;
     color: #ffffff;
 }
+#colazioneitaliana {
+    float: left;
+    padding-left: 5px;
+}
 image {
     max-width: 100%;
     max-height: 100%;
