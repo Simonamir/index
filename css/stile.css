@@ -12,7 +12,11 @@ body {
     color: #9ab3f7;}
 
 .sottotitolo{
-    image-orientation: center;
+    display: block;
+    width: 50%;
+    margin: auto;
+    padding-top: 30px;
+
 }
 .immagini{
     display: block; 
