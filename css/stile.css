@@ -46,16 +46,19 @@ body {
     float: left;
     padding-left: 5px;
     margin-top: 40px;
+    text-align: center; 
+    display: block; 
     color: #ffffff;
 }
 #colazioneitaliana {
-    display: block; width: 50%; margin: auto; text-align: center; 
-}
+    display: block; width: 50%; margin: auto; }
+
 #islandesi {
     float: left;
     padding-left: 5px;
     margin-top: 40px;
     text-align: center; 
+    display: block; 
     color: #ffffff;
 }
 #americana {
@@ -63,6 +66,7 @@ body {
     padding-left: 5px;
     margin-top: 40px;
     text-align: center; 
+    display: block; 
     color: #ffffff;
 }
 
@@ -95,5 +99,5 @@ footer{
     margin: auto; 
     text-align: center; 
     padding-top: 30px; 
-    font-size: 15px; 
+    font-size: 20px; 
     color: #ffffff;}
