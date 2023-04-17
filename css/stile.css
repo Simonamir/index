@@ -46,6 +46,7 @@ body {
     float: left;
     padding-left: 5px;
     margin-top: 40px;
+    text-align: center; 
     color: #ffffff;
 }
 #colazioneitaliana {
@@ -55,12 +56,14 @@ body {
     float: left;
     padding-left: 5px;
     margin-top: 40px;
+    text-align: center; 
     color: #ffffff;
 }
 #americana {
     float: left;
     padding-left: 5px;
     margin-top: 40px;
+    text-align: center; 
     color: #ffffff;
 }
 
@@ -81,12 +84,7 @@ main{
 main h2.altro-titolo{
     color: beige;
 }
-.footer{
-    float: left;
-    padding-left: 5px;
-    margin-top: 40px;
-    color: #ffffff;
-}
+
 footer{
     max-width: 1200px;
     background: rgb(42, 97, 255);
