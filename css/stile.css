@@ -24,6 +24,11 @@ body {
     text-align: center;
     color: #a5a5a5;
 }
+.altrotitolo{
+    display: block; 
+    margin: auto; 
+    text-align: center;
+}
 #italia {
     display: block; 
     margin: auto; 
