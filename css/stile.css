@@ -3,10 +3,11 @@ body {
         font-family: Helvetica; 
     text-decoration: black;
 }
+.titolo {display: block; margin: auto; text-align: center; padding-top: 30px; font-size: 35px; color: #9ab3f7}
 #title {
     float: left;
     padding-left: 44%;
-    color: #9ab3f7;
+    ;
 }
 #immagini{
     float: left;
