@@ -11,6 +11,9 @@ body {
     font-size: 35px; 
     color: #9ab3f7;}
 
+.sottotitolo{
+    image-orientation: center;
+}
 .immagini{
     display: block; 
     margin: auto; 
