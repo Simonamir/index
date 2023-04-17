@@ -56,7 +56,12 @@ body {
     margin-top: 40px;
     color: #ffffff;
 }
-
+.immsottotesto {
+    display: block;
+    width: 50%;
+    margin: auto;
+    padding-top: 30px;
+}
 
 header{
     max-width: 1000px;
