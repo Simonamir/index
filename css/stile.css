@@ -15,14 +15,14 @@ body {
     display: block; 
     margin: auto; 
     image-orientation: center; 
-    padding-top: 30px; 
-    font-size: 35px; }
+    padding-top: 30px;
+    padding-left: 20px; }
    
 #colazionimondo {
     display: block; 
     margin: auto; 
     text-align: center;
-    color: ;
+    color: #9ab3f7;
 }
 .altrotitolo{
     display: block; 
