@@ -81,6 +81,13 @@ main{
 main h2.altro-titolo{
     color: beige;
 }
+
+footer{
+    max-width: 1200px;
+    background: rgb(42, 97, 255);
+    margin: auto;
+    text-decoration: antiquewhite;
+}
 .footer{
     display: block; 
     margin: auto; 
@@ -88,9 +95,3 @@ main h2.altro-titolo{
     padding-top: 30px; 
     font-size: 35px; 
     color: #ffffff;}
-footer{
-    max-width: 1200px;
-    background: rgb(42, 97, 255);
-    margin: auto;
-    text-decoration: antiquewhite;
-}
