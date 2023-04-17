@@ -12,10 +12,12 @@ body {
     color: #9ab3f7;}
 
 #immagini{
-    float: left;
-    margin-top: 1,5px;
-    padding-left: 20%;
-}
+    display: block; 
+    margin: auto; 
+    text-align: center; 
+    padding-top: 30px; 
+    font-size: 35px; }
+   
 #colazionimondo {
     float: left;
     padding-left: 38%;
