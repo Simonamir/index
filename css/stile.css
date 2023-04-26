@@ -3,7 +3,7 @@ body {
         font-family: Helvetica; 
     text-decoration: black;
 }
-#titolo {
+.titolo {
     display: block; 
     margin: auto; 
     text-align: center;
